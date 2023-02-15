@@ -1,3 +1,2 @@
 # NodeJS-YouTube
-getting to know NodeJS
-Знакомство с NodeJs
+Learning Node-js by youtube video
